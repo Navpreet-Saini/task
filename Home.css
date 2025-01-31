@@ -1,0 +1,18 @@
+.home-container {
+  text-align: center;
+  margin-top: 50px;
+}
+
+.get-started-button {
+  background-color: #4CAF50;
+  color: white;
+  padding: 15px 32px;
+  font-size: 16px;
+  cursor: pointer;
+  border: none;
+  border-radius: 5px;
+}
+
+.get-started-button:hover {
+  background-color: #45a049;
+}
